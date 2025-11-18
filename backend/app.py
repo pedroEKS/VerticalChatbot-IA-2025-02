@@ -25,7 +25,7 @@ def load_db():
             print(f"Banco de dados carregado.")
             return json.load(f)
     except Exception as e:
-        print(f"❌ Erro ao carregar DB: {e}")
+        print(f"Erro ao carregar DB: {e}")
         return {}
 
 VIBES_DB = load_db()
