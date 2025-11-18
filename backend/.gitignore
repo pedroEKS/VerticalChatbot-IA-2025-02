@@ -1,10 +1,1 @@
-# Ambiente 
-#venv/
-#*.venv
-#.venv
-
 .env
-
-# Cache do Python
-__pycache__/
-*.pyc
