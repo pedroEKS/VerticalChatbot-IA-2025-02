@@ -13,7 +13,7 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 
 API_KEY = os.getenv("GEMINI_API_KEY")
 if not API_KEY:
-    print("AVISO: Chave GEMINI_API_KEY não encontrada.")
+    print("AVISO: Chave API não encontrada.")
 else:
     genai.configure(api_key=API_KEY)
 
