@@ -76,7 +76,7 @@ def recommend():
         print(f"Resposta da IA: {raw_output}")
 
         # ---------------------------------
-        # SUPORTE A MÚLTIPLAS VIBES AQUI 🔥
+        # SUPORTE A MÚLTIPLAS VIBES AQUI 
         # ---------------------------------
         if raw_output.startswith("VIBE:"):
             vibe_raw = raw_output.replace("VIBE:", "").strip().lower()
@@ -126,5 +126,5 @@ def recommend():
 
 
 if __name__ == '__main__':
-    print("VIBECHECK ATIVADO ⚡")
+    print("VIBECHECK ATIVADO")
     app.run(debug=True, port=5000)
