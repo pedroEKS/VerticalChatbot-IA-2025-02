@@ -160,8 +160,8 @@ O VibeCheck AI pode ser comercializado como:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/vibecheck-ai.git
-cd vibecheck-ai
+git clone https://github.com/pedroEKS/VerticalChatbot-IA-2025-02.git
+cd VerticalChatbot-IA-2025-02
 ```
 
 ---
