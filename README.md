@@ -223,12 +223,6 @@ Abra o arquivo `index.html` no navegador ou utilize Live Server.
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por **João Lucas Torquato de Faria**
-Estudante de Engenharia de Software
-
----
 
 ## 📜 Licença
 
