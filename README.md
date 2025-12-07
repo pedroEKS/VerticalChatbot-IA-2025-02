@@ -202,15 +202,6 @@ Abra o arquivo `index.html` no navegador ou utilize Live Server.
 
 ---
 
-## ✅ Status do Projeto
-
-🟢 Em funcionamento
-🧪 Em teste
-🚀 Pronto para apresentação
-📦 Estrutura escalável
-
----
-
 ## 📈 Futuras Melhorias
 
 * Login com Spotify
