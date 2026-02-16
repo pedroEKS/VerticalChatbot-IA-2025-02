@@ -5,14 +5,14 @@
 
 ---
 
-* Bernardo Luiz Silva Edmundo | 12316214
-* João Lucas Torquato de Faria | 12416762
-* Matheus Rocha Nogueira | 124221544
-* Pedro Henrique Esperidião Aureliano | 124221061
-* Rafael Araújo Pace | 12410152
+* Bernardo Luiz Silva Edmundo
+* João Lucas Torquato de Faria
+* Matheus Rocha Nogueira 
+* Pedro Henrique Esperidião Aureliano 
+* Rafael Araújo Pace 
 
 ---
-## 📌 Visão Geral
+## Visão Geral
 
 O **VibeCheck AI** é um chatbot musical inteligente que interpreta o estado emocional e o contexto do usuário para recomendar automaticamente playlists do Spotify de forma personalizada.
 
@@ -23,13 +23,13 @@ Diferente das buscas convencionais baseadas em palavras-chave, o VibeCheck AI en
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Criar uma experiência musical automatizada baseada em inteligência artificial, onde o usuário conversa em linguagem natural e recebe recomendações personalizadas sem precisar procurar playlists manualmente.
 
 ---
 
-## 👥 Público-Alvo
+## Público-Alvo
 
 Este projeto atende desde usuários comuns até soluções corporativas:
 
@@ -43,7 +43,7 @@ Este projeto atende desde usuários comuns até soluções corporativas:
 
 ---
 
-## 🧠 Como Funciona
+## Como Funciona
 
 O funcionamento do VibeCheck AI é simples e eficiente:
 
@@ -81,7 +81,7 @@ A playlist é exibida diretamente no navegador via Spotify Embed.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Backend
 
@@ -102,7 +102,7 @@ A playlist é exibida diretamente no navegador via Spotify Embed.
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 VibeCheck/
@@ -118,7 +118,7 @@ VibeCheck/
 
 ---
 
-## 🔐 Segurança
+## Segurança
 
 * A chave da API nunca é exposta no código
 * Gerenciada através de arquivo `.env`
@@ -129,7 +129,7 @@ VibeCheck/
 
 ---
 
-## 🚀 Diferenciais
+## Diferenciais
 
 ✅ IA emocional
 ✅ Zero busca manual
@@ -142,7 +142,7 @@ VibeCheck/
 
 ---
 
-## 💰 Modelo de Produto
+## Modelo de Produto
 
 O VibeCheck AI pode ser comercializado como:
 
@@ -155,7 +155,7 @@ O VibeCheck AI pode ser comercializado como:
 
 ---
 
-## ▶️ Como Executar Localmente
+## Como Executar Localmente
 
 ### 1. Clone o repositório
 
@@ -202,7 +202,7 @@ Abra o arquivo `index.html` no navegador ou utilize Live Server.
 
 ---
 
-## 📈 Futuras Melhorias
+## Futuras Melhorias
 
 * Login com Spotify
 * Criação dinâmica de playlists
@@ -215,7 +215,7 @@ Abra o arquivo `index.html` no navegador ou utilize Live Server.
 ---
 
 
-## 📜 Licença
+## Licença
 
 Este projeto é de uso educacional e pode ser adaptado para fins comerciais conforme acordo entre as partes.
 
